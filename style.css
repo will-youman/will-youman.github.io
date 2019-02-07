@@ -1,17 +1,38 @@
 
 .right {
 
-font-size: 12px;  
-font-style: italic;
-float:right;
-/*margin-right: 20%;*/
+	font-size: 12px;  
+	font-style: italic;
+	font-weight: bold;
+	float:right;
+	margin-right: 20%;
 }
 
 #picture {
-text-align: center;
-	
+	text-align: center;
+}
+
+.org {
+	font-weight: bold;
+	border-bottom: 1px solid #000;
+	margin-right: 60%;
+
 }
 
 h1{
-text-align: center;
+	text-align: center;
+	font-family: "Times New Roman"; 
+}
+
+h2{
+	text-align: center;
+	border-bottom: 1px solid #000; 
+}
+
+h3{
+	text-align: center;
+}
+
+.links{
+	text-align: center;
 }
