@@ -1,3 +1,4 @@
+
 Will Youman 
 Comp20 Assignment 1 
 
@@ -7,3 +8,4 @@ For this project I only really consulted the CSS and HTML cheat sheets provided,
 
 Generally, my project is not as pretty as it could be. I hope to make it look better after because I want it to reflect well on me. However, the timing made me have to postpone that for now. Despite some of its aesthetic shortcomings, I believe I hit all of the major points from the rubric in terms of functionality. 
 
+The one thing I have not been able to figure out is why my picture does not show up when my Tufts account redirects to github. If you go to github directly the photo works fine but in this case it does not. 
